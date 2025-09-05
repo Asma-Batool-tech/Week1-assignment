@@ -1,0 +1,78 @@
+.features {
+    height: 100vh;
+    background-size: cover;
+    position: relative
+
+
+}
+
+.pink {
+    background-image:url('./images/pink.jpg');
+}
+
+.nails {
+    background-image:url('./images/nails.jpg');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.post-meta {
+  position: absolute;
+    bottom: 50px;
+    right: 50px;
+    color: white;
+    background-color: rgb(228 94 161 / 71%);
+    padding: 50px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-meta_tagline {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.post-meta_title {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+.post-meta button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.796);
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+header {
+    background-color: rgba(170, 22, 109, 0.571);
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    padding: 2.5rem 3rem;
+    z-index: 1;
+    color: thistle;
+    flex: ;
+
+    
+}
+
+nav{
+   display: flex
+   flex-wrap: wrap;
+   gap: 2rem;
+   text-transform: uppercase;
+    font-weight: bold;
+    align-items: center;
+}
+

@@ -16,6 +16,10 @@
     background-image:url('./images/flower.jpg');
 }
 
+.nature {
+    background-image:url('./images/nature.jpg');
+}
+
 * {
     margin: 0;
     padding: 0;

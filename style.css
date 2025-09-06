@@ -1,7 +1,8 @@
 .features {
     height: 100vh;
     background-size: cover;
-    position: relative
+    position: relative;
+    margin-bottom: 0.3rem;
 }
 
 .pink {

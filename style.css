@@ -69,7 +69,10 @@ header {
     padding: 2.5rem 3rem;
     z-index: 1;
     color: thistle;
-    flex: ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
     
 }
